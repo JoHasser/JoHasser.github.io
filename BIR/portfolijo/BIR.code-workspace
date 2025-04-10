@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../cookie clicker"
+		},
+		{
+			"path": "../../engelsk"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BIR"
+	}
+}

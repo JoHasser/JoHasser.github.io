@@ -16,3 +16,57 @@ img {
     align-items: center;
     height: 100vh;
 }
+
+#bilde_tekst {
+    position;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f7f7f7; /* Light background for contrast */
+  }
+
+  #game-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+  }
+
+
+.text img {
+    width: 1000px;
+    margin-bottom: 10px;
+}
+
+.cookie img {
+    width: 200px;
+    cursor: pointer;
+}
+  
+
+
+.points h1 {
+    font-size: 24px;
+    color: #333;
+    margin-top: 10px;
+}
+
+#bilde {
+    cursor: pointer;
+    margin-bottom: 10px; /* Space between the cookie and the points */
+  }
+  
+  #poeng-display-container {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+    text-align: center;
+  }
